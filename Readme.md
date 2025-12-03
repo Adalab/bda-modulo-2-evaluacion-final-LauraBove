@@ -8,7 +8,7 @@ Los pasos principales son:
 
 - Extracción de datos desde la API con requests.
 
-- Limpieza con pandas (convertir booleanos, listas de subtítulos y valores NaN).
+- Limpieza con pandas.
 
 - Creación de la base de datos “films_ejercicio_2” y de la tabla “films”.
 
